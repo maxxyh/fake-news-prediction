@@ -12,7 +12,9 @@ This is a project for CS4248, AY 22/23 Sem 2.
 
 To train the model, run through the `run_classifier.ipynb` file.
 
-Tip: To load and save your trained models, check this guide [here](https://www.tensorflow.org/guide/keras/save_and_serialize).
+Tip: For **pip setup**, requirements file exists as `requirements-mac.txt`, but only for Mac. Please change as it suits you.
+
+Tip: To **load and save your trained models**, check this guide [here](https://www.tensorflow.org/guide/keras/save_and_serialize).
 
 ### Saving a model
 
