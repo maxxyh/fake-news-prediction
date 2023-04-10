@@ -40,7 +40,7 @@ Models included for loading:
 
 ## Model training files Included
 
-- `simple_bow_classifier.ipynb` = contains all our classical learning models (LR, NB, random forest etc.)
+- `simple_bow_classifier.ipynb` = contains all our classical learning models (NB, LR, SVM)
 - `lstm-bilstm_classifier.ipynb` = best lstm and bi-lstm models
 - `lstm_rnn_cnn_classifier.ipynb` = only use this for CNN model
 - `bert_classifier.ipynb` = first attempt of BERT. Used as baseline
